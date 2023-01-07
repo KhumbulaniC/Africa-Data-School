@@ -1,2 +1,2 @@
-CreditScore,Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActiveMember,EstimatedSalary,Geography_Germany,Geography_Spain,Gender_Male
-608,41,1,83807.86,1,0,1,112542.58,1,0,1
+RowNumber,CustomerId,Surname,CreditScore,Geography,Gender,Age,Tenure,Balance,NumOfProducts,HasCrCard,IsActiveMember,EstimatedSalary
+1,15634602,Hargrave,619,France,Female,42,2,0,1,1,1,101348.88
